@@ -17,14 +17,14 @@
 	
 
    
- .superman {
+.pages#superman{
    background-image: url(/assets/facebook_icono.jpg);
 	}
 
- .batman {
+ .pages#batman {
    background-image: url"(<%= image_tag'batman.jpg'%>)";
    }
- .batman-vs-superman {
+ .pages#batman-vs-superman {
    background-image: url"(<%= image_tag'Batman2.jpg'%>)";
    background-image: url"(<%= image_tag's.png'%>)";
 
